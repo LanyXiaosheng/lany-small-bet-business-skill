@@ -37,6 +37,14 @@
 - [执行规范](SKILL.md)
 - [来源与阈值处理](references/sources.md)
 
+## 2026 年星球增补
+
+加强价格实验与服务产品化判断，保留免费和收费的不同验证目标。调用示例：
+
+> 使用 $lany-small-bet-business-skill。我已手工交付四次，但每次需求略有不同。请找可标准化部分，核算沟通与返工时间，设计一次报价试验，不预设必须做课程。
+
+[星球方法来源及取舍](references/zsxq-2026.md)。以上调用均为演示，非用户已发生的案例。
+
 ## 独立仓库与安装
 
 仓库：[lany-small-bet-business-skill](https://github.com/LanyXiaosheng/lany-small-bet-business-skill)。本仓库根目录即技能目录，包含 `SKILL.md`、本说明及 `references/`。
@@ -50,4 +58,4 @@ git clone https://github.com/LanyXiaosheng/lany-small-bet-business-skill.git ~/.
 
 已设置 `CODEX_HOME` 时，将目标改为该目录下的 `skills/lany-small-bet-business-skill`。已有同名技能时先比较或备份，不覆盖。客户端发现技能后，使用 `$lany-small-bet-business-skill` 调用。
 
-本独立库从[合集的已发布版本](https://github.com/LanyXiaosheng/lany-creator-skills/tree/367cd21c5417300c8122fe25ef4ff2e4d3f8bd3f)拆分，保留原有来源归属。浏览其他技能可进入[合集](https://github.com/LanyXiaosheng/lany-creator-skills)。
+初次拆分的提交历史继续保留；当前工作版本已纳入2026年知识星球增强方法。
